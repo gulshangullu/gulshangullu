@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gulshangullu
+- 👋 Hi, I’m @gulshansachan
 - 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning python for machine learning
 - 💞️ I’m seeking a web development position 
